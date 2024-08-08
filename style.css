@@ -1,9 +1,9 @@
 #h{
-    color: brown;
+    color: rgb(237, 233, 239);
     text-align: center;
     display: block;
 }
 
 body {
-    background-color: aquamarine;
+    background-color: rgb(165, 127, 255);
 }
